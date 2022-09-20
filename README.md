@@ -31,5 +31,14 @@
 - функция ввода - _string ReadInt(string message)_;
 - функция вывода массива в терминал - _void PrintArray(string[] array)_.
 
-3. Результат вывода: 
+3. Результат вывода:
+
 ![](result.png)
+
+4. Коммиты:
+
+![](commit1.png)
+
+![](commit2.png)
+
+![](commit3.png)
